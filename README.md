@@ -2,9 +2,7 @@
 
 I'm **Muhammed Enes**, a Computer Engineering student based in **Turkey**.
 
-> "I am a 3rd-year Computer Engineering student with a strong interest in software development, web technologies, and algorithmic problem-solving. I enjoy coding and persevering through complex challenges.
->
-> My primary goal is to apply the theoretical knowledge gained during my education to real-world projects. As an eager learner and a collaborative team player, I am seeking an internship opportunity to further develop my professional skills."
+> "I am a 3rd-year Computer Engineering student with a strong interest in software development, web technologies, and algorithmic problem-solving. I enjoy coding and persevering through complex challenges".
 
 ---
 
